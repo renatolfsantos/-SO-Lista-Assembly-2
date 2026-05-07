@@ -1,78 +1,21 @@
 # -SO-Lista-Assembly-2
 Exercícios propostos na Lista Assembly 2
-<h2>1. Volume do Paralelepípedo</h2>
-<p>Receber os valores:</p>
-<ul>
-  <li>Comprimento</li>
-  <li>Largura</li>
-  <li>Altura</li>
-</ul>
+<p><strong>1.</strong> Receba os valores do comprimento, largura e altura de um paralelepípedo. Calcule e mostre seu volume.</p>
 
-<p>Calcular e exibir:</p>
-<ul>
-  <li>O volume do paralelepípedo</li>
-</ul>
+<p><strong>2.</strong> Receba o raio de uma circunferência. Calcule e mostre o comprimento da circunferência. Considere PI = 3.</p>
 
-<h2>2. Comprimento da Circunferência</h2>
-<p>Receber o raio de uma circunferência</p>
+<p><strong>3.</strong> Receba 2 valores inteiros. Calcule e mostre o resultado da diferença do maior pelo menor valor.</p>
 
-<p>Considerar:</p>
-<ul>
-  <li><code>PI = 3</code></li>
-</ul>
+<p><strong>4.</strong> Receba 4 notas bimestrais de um aluno. Calcule e mostre a média aritmética. Mostre a mensagem de acordo com a média:</p>
 
-<p>Calcular e exibir:</p>
-<ul>
-  <li>O comprimento da circunferência</li>
-</ul>
+<p><strong>a.</strong> Se a média for >= 6,0 exibir “APROVADO”;</p>
 
-<h2>3. Diferença entre Valores</h2>
-<p>Receber <code>2</code> valores inteiros</p>
+<p><strong>b.</strong> Se a média for >= 3,0 ou < 6,0 exibir “EXAME”;</p>
 
-<p>Calcular e exibir:</p>
-<ul>
-  <li>A diferença do maior pelo menor valor</li>
-</ul>
+<p><strong>c.</strong> Se a média for < 3,0 exibir “RETIDO”.</p>
 
-<h2>4. Média de Aluno</h2>
-<p>Receber <code>4</code> notas bimestrais</p>
+<p><strong>5.</strong> Receba 2 números inteiros, verifique qual o maior entre eles. Calcule e mostre o resultado da somatória dos números ímpares entre esses valores.</p>
 
-<p>Calcular e exibir:</p>
-<ul>
-  <li>A média aritmética</li>
-</ul>
+<p><strong>6.</strong> Receba 10 números inteiros reais. Verifique e mostre o maior e o menor valor.</p>
 
-<p>Exibir:</p>
-<ul>
-  <li>Se média >= <code>6</code> → <code>APROVADO</code></li>
-  <li>Se média >= <code>3</code> e <  <code>6</code> → <code>EXAME</code></li>
-  <li>Se média < <code>3</code> → <code>RETIDO</code></li>
-</ul>
-
-<h2>5. Somatória de Ímpares</h2>
-<p>Receber <code>2</code> números inteiros</p>
-
-<p>Verificar:</p>
-<ul>
-  <li>Qual o maior valor</li>
-</ul>
-
-<p>Calcular e exibir:</p>
-<ul>
-  <li>A somatória dos números ímpares entre os valores</li>
-</ul>
-
-<h2>6. Maior e Menor Valor</h2>
-<p>Receber <code>10</code> números inteiros reais</p>
-
-<p>Verificar e exibir:</p>
-<ul>
-  <li>O maior valor</li>
-  <li>O menor valor</li>
-</ul>
-
-<p>Observação:</p>
-<ul>
-  <li>Apenas valores positivos</li>
-  <li>Se o número for negativo, desconsiderar e solicitar novamente</li>
-</ul>
+<p><strong>Obs.:</strong> somente valores positivos. Se o número for negativo, deve ser desconsiderado e solicitado novamente.</p>
